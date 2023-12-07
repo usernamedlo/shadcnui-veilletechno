@@ -22,7 +22,7 @@ export function LoginModal() {
         <CardTitle className="text-2xl">Login to your account</CardTitle>
         <CardDescription>
           <p className="text-muted-foreground">
-            Don't have an account?
+            Don&apos;t have an account?
             <a href="#" className="text-muted-foreground ml-1">
               Sign up
             </a>
