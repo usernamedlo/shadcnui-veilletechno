@@ -2,8 +2,8 @@ import { ThemeToggle } from "@/src/theme/ThemeToggle";
 import ProfileButton from "@/src/feature/auth/ProfileButton";
 
 import Link from "next/link";
-import { Button } from "@/components/ui/Button";
-import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/Sheet";
+import { Button } from "@/components/ui/button";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
 
 import { getAuthSession } from "@/lib/auth";
